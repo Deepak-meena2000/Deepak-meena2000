@@ -4,7 +4,13 @@
 
 ### 🛠️ Tech I work with
 
-`React Native` · `React` · `TypeScript` · `Expo` · `Node.js`
+**Languages** · TypeScript · JavaScript · C++ · HTML5 · CSS
+
+**Frameworks** · React · Next.js · React Native (Expo) · Electron
+
+**Tools** · Nx · TanStack Query · Zustand · Redux · Tailwind CSS · ShadcnUI · Docker · Vitest · Playwright · Storybook · Webpack · Vite · WebSocket
+
+**Architecture** · Monorepo design (Nx) · cross-platform architecture · design systems · AI-assisted SDLC · team mentorship
 
 ### 🔗 Connect
 
